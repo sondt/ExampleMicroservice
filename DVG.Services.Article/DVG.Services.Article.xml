@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DVG.Services.Article</name>
+    </assembly>
+    <members>
+        <member name="M:DVG.Services.Article.Controllers.v1._0.ArticleController.GetArticleBySite(System.Guid)">
+            <summary>
+            Get articles by site
+            </summary>
+            <param name="id">Site id</param>
+            <returns>Return list article</returns>
+        </member>
+        <member name="M:DVG.Services.Article.Controllers.v1._0.ArticleController.GetArticleByCategory(System.Guid)">
+            <summary>
+            Get articles by category
+            </summary>
+            <param name="id">Category id</param>
+            <returns>Return list article</returns>
+        </member>
+    </members>
+</doc>
